@@ -1,0 +1,1 @@
+This repo contains a CNN model with approx 242k parameters trained with CIFAR10 image dataset with training accuracy of 67%.
